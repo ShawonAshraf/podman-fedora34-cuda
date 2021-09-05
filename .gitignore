@@ -1,0 +1,4 @@
+venv/
+.vscode/
+lightning_logs/
+review_polarity/
